@@ -1,0 +1,6 @@
+[Startup]
+RequireMSI=3.0
+
+[Product]
+PATCH=AcroRdrDCUpd1501020060.msp
+msi=AcroRead.msi
