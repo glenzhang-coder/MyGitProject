@@ -1,0 +1,4 @@
+[Startup]
+RequireMSI=3.0
+
+[Product]
